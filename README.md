@@ -7,3 +7,10 @@ This repository contains an AI-powered Resume Screening and Ranking system desig
 ✅ AI-Based Resume Ranking – Uses TF-IDF & Cosine Similarity
 ✅ Dynamic Score Calculation – Matches resumes to job descriptions
 ✅ Web Interface with Flask & HTML/CSS – Easy-to-use UI
+
+ 🔹 How It Works?
+1️⃣ User uploads multiple resumes (PDFs)
+2️⃣ AI extracts text from resumes and job description
+3️⃣ TF-IDF & Cosine Similarity calculate resume-job match score
+4️⃣ Resumes are ranked from highest to lowest match
+5️⃣ Results displayed on the website in a clean, structured format
